@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CS_WebControlPractice_SHDocVw": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
